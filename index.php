@@ -64,10 +64,10 @@ Ho~　★★★★★★
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
 								<li>
-									<a href="http://www.beipy.com" target="_blank">官方博客</a>
+									<a href="http://weibo.com/yiwenv" target="_blank">官方博客</a>
 								</li>
 								<li>
-									<a href="http://v.beipy.com" target="_blank"> <span class="badge" style="background: red;margin-right:5px ;">NEW</span>北漂鱼影院<span class="sr-only">(current)</span></a>
+									<a href="http://v.beipy.com" target="_blank"> <span class="badge" style="background: red;margin-right:5px ;">NEW</span>VIP影院<span class="sr-only">(current)</span></a>
 								</li>
 								<li>
 									<a href="#">音乐盒</a>
@@ -81,26 +81,26 @@ Ho~　★★★★★★
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="badge" style="background: red;">1</span>  旗下网站 <span class="caret"></span></a>
 									<ul class="dropdown-menu">
 										<li>
-											<a href="http://www.beipy.com" target="_blank" title="北漂鱼互动分享（beipy.com)，互动笔记、原创教程、资源分享、疑难解答、最新技术，Web前端及爱好者提供一个信息交流、经验分享、互帮互助的平台">官方博客</a>
+											<a href="http://www.beipy.com" target="_blank" title="VIP互动分享（beipy.com)，互动笔记、原创教程、资源分享、疑难解答、最新技术，Web前端及爱好者提供一个信息交流、经验分享、互帮互助的平台">官方博客</a>
 										</li>
 										<li>
-											<a href="<?php echo $aik['weibourl'];?>" target="_blank" title="北漂鱼微博">北漂鱼微博</a>
+											<a href="<?php echo $aik['weibourl'];?>" target="_blank" title="文采逸逸">文采逸逸</a>
 										</li>
 										<li role="separator" class="divider"></li>
 										<li>
 											<a href="http://tao.beipy.com" target="_blank" title="领取优惠券购物，不花冤枉钱">购BUY</a>
 										</li>
 										<li>
-											<a href="http://www.beipy.com/bz" target="_blank">高清壁纸</a>
+											<a href="#" target="_blank">高清壁纸</a>
 										</li>
 										
 										<li>
-											<a href="http://v.beipy.com" target="_blank">北漂鱼影院</a>
+											<a href="#" target="_blank">VIP影院</a>
 										</li>
 									</ul>
 								</li>
 								<li>
-									<a href="http://v.beipy.com/app.php" target="_blank">客户端</a>
+									<a href="#" target="_blank">客户端</a>
 								</li>
 							</ul>
 						</div>
@@ -113,7 +113,7 @@ Ho~　★★★★★★
 			<div class="container ">
 				<div class="tit-name">
 					<span>正在播放:</span>
-					<h1 id="tittext">感谢您使用北漂鱼视频解析服务,正在播放音乐MV视频！</h1>
+					<h1 id="tittext">感谢您使用VIP视频解析服务,正在播放音乐MV视频！</h1>
 				</div>
 				<iframe id="palybox" src="<?php echo $aik['jiekou1'];?><?php echo $aik['maurl'];?>" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
 
@@ -396,10 +396,10 @@ Ho~　★★★★★★
 			<?php  include 'footer.php';?>
 
 		<script>
-			console.log("%c%c源码作者%c北漂鱼", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:#000;line-height:28px;font-size:14px;");
+			console.log("%c%c源码作者%cVIP", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:#000;line-height:28px;font-size:14px;");
 			console.log("%c%c网站地址%chttp://www.beipy.com", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:6px 6px 6px 2px;background:#FADFA3;color:#0093fff;line-height:28px;font-size:12px;");
-			console.log("%c%c新浪微博%c北漂鱼的故事", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:red;line-height:28px;font-size:14px;");
-			console.log("%c%c就知道阻挡不住你观看源码的冲动，但你至少要记住我！-----北漂鱼", "line-height:28px;", "line-height:28px;padding:4px 0px;color:#fff;font-size:16px;background-image:-webkit-gradient(linear,left top,right top,color-stop(0,#ff22ff),color-stop(1,#5500ff));color:transparent;-webkit-background-clip:text;");
+			console.log("%c%c新浪微博%cVIP的故事", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:red;line-height:28px;font-size:14px;");
+			console.log("%c%c就知道阻挡不住你观看源码的冲动，但你至少要记住我！-----VIP", "line-height:28px;", "line-height:28px;padding:4px 0px;color:#fff;font-size:16px;background-image:-webkit-gradient(linear,left top,right top,color-stop(0,#ff22ff),color-stop(1,#5500ff));color:transparent;-webkit-background-clip:text;");
 		</script>
 	
 	</body>
