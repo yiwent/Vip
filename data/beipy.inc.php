@@ -1,14 +1,14 @@
 <?php
  $aik =  array (
   'sitename' => '北漂鱼全网解析',
-  'pcdomain' => 'http://tv.beipy.com',
+  'pcdomain' => 'http://yiwen.gearhostpreview.com/',
   'title' => '北漂鱼VIP视频全网解析———北漂鱼互动分享(tv.beipy.com)',
   'keywords' => '优酷VIP解析,爱奇艺VIP解析,腾讯VIP解析,乐视VIP解析,芒果VIP解析,全网视频解析,VIP在线解析,视频VIP在线解析,VIP视频在线解析',
   'description' => '本站为广大网友提供优酷VIP解析，爱奇艺VIP解析，腾讯VIP解析，乐视VIP解析，芒果VIP解析等解析服务，让你省去购买视频VIP费用，欢迎大家收藏本站，并将它介绍给您的朋友！',
   'weibourl' => 'http://weibo.com/330122912',
   'weibo' => '<iframe width="100%" height="550" style="border-radius: 5px;" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3121187684&verifier=aad3531f&dpc=1"></iframe>',
   'gonggao' => '若视频播放异常，尝试刷新或更换接口即可解决！',
-  'gonggaourl' => 'http://beipy.com',
+  'gonggaourl' => 'http://yiwen.gearhostpreview.com',
   'maurl' => 'http://v.youku.com/v_show/id_XMTI4NTY3MTY1Mg==.html',
   'jiekou1name' => '默认一',
   'jiekou1' => 'http://api.baiyug.cn/vip/index.php?url=',
@@ -120,55 +120,55 @@
 			})();
 
 		</script>',
-  'homelink' => '		<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+  'homelink' => '		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			北漂鱼官网
 
 		</a>|
 
-		<a href="http://v.beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			北漂鱼影院
 
 		</a>|
 
-		<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			芒果互联网电视
 
 		</a>|
 
-		<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			金鹰网
 
 		</a>|
 
-		<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
@@ -178,7 +178,7 @@
   'tongji' => '<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id=\'cnzz_stat_icon_1263340672\'%3E%3C/span%3E%3Cscript src=\'" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1263340672%26show%3Dpic\' type=\'text/javascript\'%3E%3C/script%3E"));</script>',
   'admin_name' => 'admin',
   'admin_pass' => '3ceb0e9fb16f8673c35f707e8657124a',
-  'admin_email' => 'beipy@qq.com',
+  'admin_email' => '541051236@qq.com',
   'hometopnotice' => '',
   'hometopright' => '',
   'sort' => '1,2,3,4,5,6,7,8,9,10',
