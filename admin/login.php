@@ -148,7 +148,7 @@ function ck(){
 <form name="loginform" method="post" action="" onsubmit="return ck();" style="padding:0;">
 	<table border="0" cellspacing="1" cellpadding="0" width="400" class="tablecss" style="margin-top:250px; overflow:hidden;border-radius: 10px;">
 <tr class="header">
-			<td colspan="4" align="center" style=" height:50px; font-size:18px; font-weight:bold;    background-color: #ecf1fc;">北漂鱼影院系统登陆</td>
+			<td colspan="4" align="center" style=" height:50px; font-size:18px; font-weight:bold;    background-color: #ecf1fc;">VIP视频系统登陆</td>
 </tr>
 		<tr style="height:100px;" align="center">
 		  <td align="center" valign="middle">

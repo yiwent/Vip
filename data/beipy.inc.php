@@ -1,15 +1,15 @@
 <?php
  $aik =  array (
-  'sitename' => '北漂鱼全网解析',
+  'sitename' => 'VIP全网解析',
   'pcdomain' => 'http://yiwen.gearhostpreview.com/',
-  'title' => '北漂鱼VIP视频全网解析———北漂鱼互动分享(tv.beipy.com)',
+  'title' => 'VIP视频全网解析———互动分享',
   'keywords' => '优酷VIP解析,爱奇艺VIP解析,腾讯VIP解析,乐视VIP解析,芒果VIP解析,全网视频解析,VIP在线解析,视频VIP在线解析,VIP视频在线解析',
   'description' => '本站为广大网友提供优酷VIP解析，爱奇艺VIP解析，腾讯VIP解析，乐视VIP解析，芒果VIP解析等解析服务，让你省去购买视频VIP费用，欢迎大家收藏本站，并将它介绍给您的朋友！',
-  'weibourl' => 'http://weibo.com/330122912',
+  'weibourl' => 'http://weibo.com/yiwenv',
   'weibo' => '<iframe width="100%" height="550" style="border-radius: 5px;" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3121187684&verifier=aad3531f&dpc=1"></iframe>',
   'gonggao' => '若视频播放异常，尝试刷新或更换接口即可解决！',
   'gonggaourl' => 'http://yiwen.gearhostpreview.com',
-  'maurl' => 'http://v.youku.com/v_show/id_XMTI4NTY3MTY1Mg==.html',
+  'maurl' => 'http://v.youku.com/v_show/id_XMzM4OTI5NzYwMA==.html',//v.youku.com/v_show/id_XMzM4OTI5NzYwMA==.html
   'jiekou1name' => '默认一',
   'jiekou1' => 'http://api.baiyug.cn/vip/index.php?url=',
   'jiekou2name' => '推荐二',
@@ -30,19 +30,15 @@
   'jiekou9' => 'http://api.662820.com/xnflv/index.php?url=',
   'jiekou10name' => '待添加',
   'jiekou10' => '',
-  'topnav' => '
-<li>
+  'topnav' => '',
+//<li>
+//	<a  href="http://tao.beipy.com" target="_blank" title="领取优惠券购物，不花冤枉钱">购BUY</a>
+//</li>
 
-	<a  href="http://tao.beipy.com" target="_blank" title="领取优惠券购物，不花冤枉钱">购BUY</a>
-
-</li>
-
-
-',
-  'ch1' => '<a href="http://tao.beipy.com" target="_blank" title="领券购物更优惠"><img src="img/gou.gif"/></a>',
-  'guanggao' => '<script src=\'http://e.qxfly.com/55363\'></script>',
-  'changyan' => '<!--PC和WAP自适应版-->
-
+  'ch1' => '',//<a href="http://tao.beipy.com" target="_blank" title="领券购物更优惠"><img src="img/gou.gif"/></a>
+  'guanggao' =>'',//<script src=\'http://e.qxfly.com/55363\'></script>
+  'changyan' => '', 
+ /* <!--PC和WAP自适应版-->
 <div id="SOHUCS" sid="beipyjx"></div>
 
 <script type="text/javascript">
@@ -119,16 +115,16 @@
 
 			})();
 
-		</script>',
+		</script>', */
   'homelink' => '		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
-			北漂鱼官网
+			VIP视频在线解析官网
 
 		</a>|
 
 		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
 
-			北漂鱼影院
+			VIP影院
 
 		</a>|
 

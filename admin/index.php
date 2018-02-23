@@ -104,7 +104,7 @@ Ho~　★★★★★★
 		   
 		    <table width="600" border="0" class="tablecss" cellspacing="0" cellpadding="0" align="center">
 				<tr>
-				   <td colspan="2" align="center">欢迎使用北漂鱼解析管理系统！</td>
+				   <td colspan="2" align="center">欢迎使用VIP解析管理系统！</td>
 				</tr>
 			  	<tr>
 				    <td align="right">当前使用版：</td>
