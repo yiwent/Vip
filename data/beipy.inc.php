@@ -173,7 +173,7 @@
 			天娱传媒
 
 		</a>',
-  'icp' => '京公网安备 434535353450号',
+  'icp' => '京公网安备 43453535XXXX号',
   'foot' => '本站提供的最新电影和电视剧资源均系收集于各大视频网站,本站只提供web页面服务,并不提供影片资源存储,也不参与录制、上传。<br/>若本站收录的节目无意侵犯了贵司版权，请给网页底部邮箱地址来信,我们会及时处理和回复,谢谢。',
   'tongji' => '<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id=\'cnzz_stat_icon_1263340672\'%3E%3C/span%3E%3Cscript src=\'" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1263340672%26show%3Dpic\' type=\'text/javascript\'%3E%3C/script%3E"));</script>',
   'admin_name' => 'admin',

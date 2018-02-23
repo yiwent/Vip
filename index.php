@@ -67,7 +67,7 @@ Ho~　★★★★★★
 									<a href="http://weibo.com/yiwenv" target="_blank">官方博客</a>
 								</li>
 								<li>
-									<a href="http://v.beipy.com" target="_blank"> <span class="badge" style="background: red;margin-right:5px ;">NEW</span>VIP影院<span class="sr-only">(current)</span></a>
+									<a href="http://weibo.com/yiwenv" target="_blank"> <span class="badge" style="background: red;margin-right:5px ;">NEW</span>VIP影院<span class="sr-only">(current)</span></a>
 								</li>
 								<li>
 									<a href="#">音乐盒</a>
@@ -81,14 +81,14 @@ Ho~　★★★★★★
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="badge" style="background: red;">1</span>  旗下网站 <span class="caret"></span></a>
 									<ul class="dropdown-menu">
 										<li>
-											<a href="http://www.beipy.com" target="_blank" title="VIP互动分享（beipy.com)，互动笔记、原创教程、资源分享、疑难解答、最新技术，Web前端及爱好者提供一个信息交流、经验分享、互帮互助的平台">官方博客</a>
+											<a href="http://weibo.com/yiwenv" target="_blank" title="VIP互动分享，互动笔记、原创教程、资源分享、疑难解答、最新技术，Web前端及爱好者提供一个信息交流、经验分享、互帮互助的平台">官方博客</a>
 										</li>
 										<li>
 											<a href="<?php echo $aik['weibourl'];?>" target="_blank" title="文采逸逸">文采逸逸</a>
 										</li>
 										<li role="separator" class="divider"></li>
 										<li>
-											<a href="http://tao.beipy.com" target="_blank" title="领取优惠券购物，不花冤枉钱">购BUY</a>
+											<a href="http://weibo.com/yiwenv" target="_blank" title="领取优惠券购物，不花冤枉钱">购BUY</a>
 										</li>
 										<li>
 											<a href="#" target="_blank">高清壁纸</a>
@@ -372,7 +372,7 @@ Ho~　★★★★★★
 				<!---->
 			</div>
 		</div>
-		<div class="container-fluid logo-box">
+	<!--	<div class="container-fluid logo-box">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -382,18 +382,16 @@ Ho~　★★★★★★
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>  -->
 		<div class="cy-box">
 			<div class="container">
 				<!--畅言内容框-->
 				<?php echo $aik['changyan'];?>
-				<!--PC和WAP自适应版-->
-
-				
-				<!---->
-			</div></div>
-
-			<?php  include 'footer.php';?>
+				<!--PC和WAP自适应版-->	
+			</div>
+		</div> 
+   
+		<?php  include 'footer.php';?>
 
 		<script>
 			console.log("%c%c源码作者%cVIP", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:#000;line-height:28px;font-size:14px;");

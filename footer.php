@@ -11,12 +11,12 @@
 		<hr style="display: block;height: 1px;margin-bottom: 10px;background-color: #4f4f4f;    margin-top: 0px;margin-bottom: 20px;border: 0;"/>
 		<div class="container footer-tit">
 				<div class="counter">
-				『您是本站第<img border="0" src="http://cc.amazingcounters.com/counter.php?i=3217952&c=9654169" alt="AmazingCounters.com">位访客』
+				『您是本站第<img border="0" src="http://cc.amazingcounters.com/counter.php?i=3220742&c=9662539" alt="AmazingCounters.com">位访客』
 			</div>		
 			<p><?php echo $aik['foot'];?></p>
 			
-			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://www.miitbeian.gov.cn" ><img style="vertical-align: middle;" src="img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
-			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://beipy.com" target="_blank" style="color:#888;">beipy.com</a>版权所有</p>
+			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.gearhostpreview.com/" ><img style="vertical-align: middle;" src="img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
+			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://yiwen.gearhostpreview.com/" target="_blank" style="color:#888;">yiwen.gearhostpreview.com</a>版权所有</p>
 			<p class="toot-tto"><?php echo $aik['tongji'];?></p>
 			<!--统计展示-->
 			
