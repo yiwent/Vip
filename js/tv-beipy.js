@@ -2,7 +2,7 @@
 function play() {
 	var rul = document.getElementById("url").value; //获取input链接
 	if(rul == "") {
-		alert("深漂鱼提示您：请输入链接，没连接我给你解析个毛线")
+		alert("深漂鱼提示您：请输入链接，没链接我给你解析个毛线")
 	} else {
 		var jxApi = document.getElementById("jk"); //获取选择按钮
 		var jxurl = document.getElementById("jk").selectedIndex; //获取选中的
