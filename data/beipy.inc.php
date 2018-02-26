@@ -1,27 +1,27 @@
 <?php
  $aik =  array (
   'sitename' => 'VIP全网解析',
-  'pcdomain' => 'http://yiwen.gearhostpreview.com/',
-  'title' => 'VIP视频全网解析———互动分享',
+  'pcdomain' => 'http://yiwen.gear.host/',
+  'title' => '深漂鱼-VIP视频全网解析———互动分享',
   'keywords' => '优酷VIP解析,爱奇艺VIP解析,腾讯VIP解析,乐视VIP解析,芒果VIP解析,全网视频解析,VIP在线解析,视频VIP在线解析,VIP视频在线解析',
   'description' => '本站为广大网友提供优酷VIP解析，爱奇艺VIP解析，腾讯VIP解析，乐视VIP解析，芒果VIP解析等解析服务，让你省去购买视频VIP费用，欢迎大家收藏本站，并将它介绍给您的朋友！',
   'weibourl' => 'http://weibo.com/yiwenv',
   'weibo' => '<iframe width="100%" height="550" style="border-radius: 5px;" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3121187684&verifier=aad3531f&dpc=1"></iframe>',
   'gonggao' => '若视频播放异常，尝试刷新或更换接口即可解决！',
-  'gonggaourl' => 'http://yiwen.gearhostpreview.com',
-  'maurl' => 'http://v.youku.com/v_show/id_XMzM4OTI5NzYwMA==.html',//v.youku.com/v_show/id_XMzM4OTI5NzYwMA==.html
+  'gonggaourl' => 'http://yiwen.gear.host/',
+  'maurl' => 'http://v.youku.com/v_show/id_XMzM4OTI5NzYwMA==.html',
   'jiekou1name' => '默认一',
-  'jiekou1' => 'http://api.baiyug.cn/vip/index.php?url=',
+  'jiekou1' => 'http://jiexi.071811.cc/jx2.php?url=',
   'jiekou2name' => '推荐二',
-  'jiekou2' => 'http://api.47ks.com/webcloud/?v=',
+  'jiekou2' => 'http://api.baiyug.cn/vip/index.php?url=',//http://api.47ks.com/webcloud/?v=
   'jiekou3name' => '线路三',
-  'jiekou3' => 'http://api.lilaile.cn/index.php?url=',
+  'jiekou3' => 'http://jqaaa.com/jq3/?url=',//http://api.lilaile.cn/index.php?url=
   'jiekou4name' => '线路四',
-  'jiekou4' => 'http://jiexi.071811.cc/jx2.php?url=',
+  'jiekou4' => 'http://aikan-tv.com/?url=',//http://api.baiyug.cn/vip/index.php?url=
   'jiekou5name' => '线路五',
-  'jiekou5' => 'http://api.xfsub.com/index.php?url=',
+  'jiekou5' => 'http://api.30pan.com/api/?url=',//http://api.xfsub.com/index.php?url=
   'jiekou6name' => '线路六',
-  'jiekou6' => 'http://api.baiyug.cn/vip/?url=',
+  'jiekou6' => 'http://api.xfsub.com/index.php?url=',//http://api.baiyug.cn/vip/?url=
   'jiekou7name' => '磁力一',
   'jiekou7' => 'https://apiv.ga/magnet/',
   'jiekou8name' => '磁力二',
@@ -116,55 +116,55 @@
 			})();
 
 		</script>', */
-  'homelink' => '		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+  'homelink' => '		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			VIP视频在线解析官网
 
 		</a>|
 
-		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			VIP影院
 
 		</a>|
 
-		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			芒果互联网电视
 
 		</a>|
 
-		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			金鹰网
 
 		</a>|
 
-		<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 
 		</a>|
 
-<a href="http://yiwen.gearhostpreview.com/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
 			天娱传媒
 

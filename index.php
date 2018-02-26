@@ -39,7 +39,7 @@ Ho~　★★★★★★
 		<!--书签标签-->
 		<link rel="bookmark" href="img/tvico.png" />
 		<!--苹果桌面标题-->
-		<meta name="apple-mobile-web-app-title" content="全网VIP解析">
+		<meta name="apple-mobile-web-app-title" content="全网VIP视频解析">
 		<!--苹果桌面图标-->
 		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="img/tvlogo.png">
 	</head>
@@ -121,7 +121,7 @@ Ho~　★★★★★★
 					<div class="input-group">
 						<input type="text" id="url" class="form-control url-text" aria-label="Text input with segmented button dropdown" placeholder="请粘贴视频网址>ㅂ<ﾉ ☆" title="请复制你想要看的视频网址，粘贴到此处点击播放即可！">
 						<div class="input-group-addon">
-							<select class="url-c url-text" title="如发现视频无法正常播放请尝试更换视频线路！" id="jk">
+							<select class="url-c url-text" title="如发现视频无法正常播放请尝试更换视频线路！记得地址开头要有：http://或者https://" id="jk">
 								<option value="<?php echo $aik['jiekou1'];?>" selected>
 									<?php echo $aik['jiekou1name'];?>
 								</option>
@@ -393,13 +393,13 @@ Ho~　★★★★★★
    
 		<?php  include 'footer.php';?>
 
-		<script>
+<!--		<script>
 			console.log("%c%c源码作者%cVIP", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:#000;line-height:28px;font-size:14px;");
 			console.log("%c%c网站地址%chttp://www.beipy.com", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:6px 6px 6px 2px;background:#FADFA3;color:#0093fff;line-height:28px;font-size:12px;");
 			console.log("%c%c新浪微博%cVIP的故事", "line-height:28px;", "line-height:28px;padding:4px;background:#222;color:#FADFA3;font-size:14px;", "padding:4px;background:#FADFA3;color:red;line-height:28px;font-size:14px;");
 			console.log("%c%c就知道阻挡不住你观看源码的冲动，但你至少要记住我！-----VIP", "line-height:28px;", "line-height:28px;padding:4px 0px;color:#fff;font-size:16px;background-image:-webkit-gradient(linear,left top,right top,color-stop(0,#ff22ff),color-stop(1,#5500ff));color:transparent;-webkit-background-clip:text;");
 		</script>
-	
+-->	
 	</body>
 
 </html>
