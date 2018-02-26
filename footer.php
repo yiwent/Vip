@@ -16,7 +16,7 @@
 			<p><?php echo $aik['foot'];?></p>
 			
 			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.gear.host/" ><img style="vertical-align: middle;" src="img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
-			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://yiwen.gear.host/" target="_blank" style="color:#888;">yiwen.gearhostpreview.com</a>版权所有</p>
+			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://yiwen.gear.host/" target="_blank" style="color:#888;">yiwen.gear.host</a>版权所有</p>
 			<p class="toot-tto"><?php echo $aik['tongji'];?></p>
 			<!--统计展示-->
 			
