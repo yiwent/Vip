@@ -12,7 +12,7 @@
 		<div class="container footer-tit">
 				<div class="counter">
 				『您是本站第<img border="0" src="http://cc.amazingcounters.com/counter.php?i=3220742&c=9662539" alt="AmazingCounters.com">位访客』
-			</div>		#888
+			</div>		
 			<p><?php echo $aik['foot'];?></p>
 			
 			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.gear.host/" ><img style="vertical-align: middle;" src="img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>

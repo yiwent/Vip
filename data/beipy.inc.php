@@ -1,13 +1,13 @@
 <?php
  $aik =  array (
-  'sitename' => 'VIP全网解析',
+  'sitename' => '深漂鱼-VIP全网解析',
   'pcdomain' => 'http://yiwen.gear.host/',
-  'title' => '深漂鱼-VIP视频全网解析———互动分享',
-  'keywords' => '优酷VIP解析,爱奇艺VIP解析,腾讯VIP解析,乐视VIP解析,芒果VIP解析,全网视频解析,VIP在线解析,视频VIP在线解析,VIP视频在线解析',
-  'description' => '本站为广大网友提供优酷VIP解析，爱奇艺VIP解析，腾讯VIP解析，乐视VIP解析，芒果VIP解析等解析服务，让你省去购买视频VIP费用，欢迎大家收藏本站，并将它介绍给您的朋友！',
+  'title' => '深漂鱼-VIP视频全网解析',
+  'keywords' => '深漂鱼,优酷VIP解析,爱奇艺VIP解析,腾讯VIP解析,乐视VIP解析,芒果VIP解析,全网视频解析,VIP在线解析,视频VIP在线解析,VIP视频在线解析',
+  'description' => '本站为广大网友提供优酷VIP解析，爱奇艺VIP解析，腾讯VIP解析，乐视VIP解析，芒果VIP解析等解析服务，让你省去购买视频VIP费用，欢迎大家收藏本站，并将它介绍给您的朋友！--深漂鱼',
   'weibourl' => 'http://weibo.com/yiwenv',
   'weibo' => '<iframe width="100%" height="550" style="border-radius: 5px;" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3121187684&verifier=aad3531f&dpc=1"></iframe>',
-  'gonggao' => '若视频播放异常，尝试刷新或更换接口即可解决！记得地址开头要有：http://或者https://',
+  'gonggao' => '若视频播放异常，尝试刷新或更换接口即可解决！',
   'gonggaourl' => 'http://yiwen.gear.host/',
   'maurl' => 'http://v.youku.com/v_show/id_XMzM4OTI5NzYwMA==.html',
   'jiekou1name' => '默认一',
