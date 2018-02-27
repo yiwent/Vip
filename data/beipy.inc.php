@@ -130,43 +130,43 @@
 
 		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
-			芒果互联网电视
+			开心吗
 
 		</a>|
 
 		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
-			金鹰网
+			今天开心吗
 
 		</a>|
 
 		<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
-			天娱传媒
+			开心
 
 		</a>|
 
 <a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
-			天娱传媒
+			很开心
 
 		</a>|
 
 <a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
-			天娱传媒
+			非常开心
 
 		</a>|
 
 <a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
 
-			天娱传媒
+			假装开心☺
 
 		</a>|
 
-<a href="http://yiwen.gear.host/" target="_blank"style="color:#888;margin:0 10px;">
+<a href="https://github.com/yiwent/Vip/" target="_blank"style="color:#888;margin:0 10px;">
 
-			天娱传媒
+			本网页源代码
 
 		</a>',
   'icp' => '京公网安备 43453535XXXX号',
