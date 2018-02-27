@@ -16,7 +16,7 @@
 			<p><?php echo $aik['foot'];?></p>
 			
 			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.gear.host/" ><img style="vertical-align: middle;" src="img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
-			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://yiwen.gear.host/" target="_blank" style="color:#888;">深漂鱼 </a>版权所有&nbsp;网站运行：<span id="htmer_time" style="color:#444444;"></span>
+			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://yiwen.gear.host/" target="_blank" style="color:#888;">深漂鱼</a>版权所有|网站运行：<span id="htmer_time" style="color:#444444;"></span>
         <script type="text/javascript" language="javascript">
             function secondToDate(second) {
             if (!second) {
@@ -46,7 +46,7 @@
             }
             function setTime() {
             // 博客创建时间秒数，时间格式中，月比较特殊，是从0开始的，所以想要显示5月，得写4才行，如下
-            var create_time = Math.round(new Date(Date.UTC(2018, 2, 28, 0, 0, 0))//修改建站时间
+            var create_time = Math.round(new Date(Date.UTC(2018, 1, 28, 0, 0, 0))//修改建站时间
             .getTime() / 1000);
             // 当前时间秒数,增加时区的差异
             var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
