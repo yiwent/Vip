@@ -12,11 +12,11 @@
 		<div class="container footer-tit">
 				<div class="counter">
 				『您是本站第<img border="0" src="http://cc.amazingcounters.com/counter.php?i=3220742&c=9662539" alt="AmazingCounters.com">位访客』
-			</div>		
+			</div>		#888
 			<p><?php echo $aik['foot'];?></p>
 			
 			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.gear.host/" ><img style="vertical-align: middle;" src="img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
-			<p>Copyright&nbsp;&copy;&nbsp;2017&nbsp;	<a href="http://yiwen.gear.host/" target="_blank" style="color:#888;">深漂鱼</a>版权所有|网站运行：<span id="htmer_time" style="color:#444444;"></span>
+			<p>Copyright&nbsp;&copy;&nbsp;2018&nbsp;<a href="http://yiwen.gear.host/" target="_blank" style="color:;">深漂鱼 </a>版权所有|网站运行：<span id="htmer_time" style="color:#888;"></span>
         <script type="text/javascript" language="javascript">
             function secondToDate(second) {
             if (!second) {
