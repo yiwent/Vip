@@ -13,7 +13,7 @@
   'jiekou1name' => '默认一',
   'jiekou1' => 'http://jiexi.071811.cc/jx2.php?url=',
   'jiekou2name' => '推荐二',
-  'jiekou2' => 'http://api.baiyug.cn/vip/index.php?url=',//http://api.47ks.com/webcloud/?v=
+  'jiekou2' => 'http://api.baiyug.cn/vip/?url=',//http://api.47ks.com/webcloud/?v=
   'jiekou3name' => '线路三',
   'jiekou3' => 'http://jqaaa.com/jq3/?url=',//http://api.lilaile.cn/index.php?url=
   'jiekou4name' => '线路四',

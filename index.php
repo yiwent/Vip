@@ -27,21 +27,21 @@ Ho~　★★★★★★
 		<meta name="keywords" content="<?php echo $aik['keywords'];?>" />
 		<meta name="description" content="<?php echo $aik['description'];?>" />
 		<meta name=viewport content="width=device-width,anicital-scale=1">
-		<link rel="stylesheet" href="css/bootstrap.css" />
-		<script type="text/javascript" src="js/jquery.js"></script>
-		<script type="text/javascript" src="js/bootstrap.js"></script>
-		<script type="text/javascript" src="js/tv-beipy.js" /></script>
+		<link rel="stylesheet" href="http://yiwen.qiniudn.com/css/bootstrap.css" />
+		<script type="text/javascript" src="http://yiwen.qiniudn.com/js/jquery.js"></script>
+		<script type="text/javascript" src="http://yiwen.qiniudn.com/js/bootstrap.js"></script>
+		<script type="text/javascript" src="http://yiwen.qiniudn.com/js/tv-beipy.js" /></script>
 		<!--微博引入关注插件-->
 		<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
-		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="http://yiwen.qiniudn.com/css/style.css" />
 		<!--浏览器标签ico-->
-		<link rel="shortcut icon" href="img/favicon.ico" />
+		<link rel="shortcut icon" href="http://yiwen.qiniudn.com/img/favicon.ico" />
 		<!--书签标签-->
-		<link rel="bookmark" href="img/tvico.png" />
+		<link rel="bookmark" href="http://yiwen.qiniudn.com/img/tvico.png" />
 		<!--苹果桌面标题-->
 		<meta name="apple-mobile-web-app-title" content="全网VIP视频解析">
 		<!--苹果桌面图标-->
-		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="img/tvlogo.png">
+		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://yiwen.qiniudn.com/img/tvlogo.png">
 	</head>
 
 	<body>
@@ -187,42 +187,42 @@ Ho~　★★★★★★
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://vip.iqiyi.com/" target="_blank" title="爱奇艺会员">
-								<img class="img-responsive" src="img/iqiyilogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/iqiyilogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://film.qq.com/" target="_blank" title="腾讯会员中心">
-								<img class="img-responsive" src="img/qqlogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/qqlogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://vip.youku.com/" target="_blank" title="优酷会员中心">
-								<img class="img-responsive" src="img/youkulogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/youkulogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://www.mgtv.com/vip/" target="_blank" title="芒果会员中心">
-								<img class="img-responsive" src="img/hunantvlogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/hunantvlogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://yuanxian.le.com/" target="_blank" title="乐视会员中心">
-								<img class="img-responsive" src="img/letvlogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/letvlogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://vip.tudou.com" target="_blank" title="土豆会员中心">
-								<img class="img-responsive" src="img/tudoulogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/tudoulogo.png" />
 							</a>
 						</div>
 					</div>
@@ -234,42 +234,42 @@ Ho~　★★★★★★
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.baofeng.com/" target="_blank" title="暴风会员">
-								<img class="img-responsive" src="img/baofeng.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/baofeng.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://vip.1905.com/" target="_blank" title="1905电影网视频">
-								<img class="img-responsive" src="img/1905logo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/1905logo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://vip.kankan.com/" target="_blank" title="天天看看">
-								<img class="img-responsive" src="img/kankan.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/kankan.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://www.pptv.com/" target="_blank" title="PPTV聚力">
-								<img class="img-responsive" src="img/pptv.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/pptv.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.yinyuetai.com/" target="_blank" title="音悦台MV">
-								<img class="img-responsive" src="img/yinyuetailogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/yinyuetailogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.56.com/" target="_blank" title="56视频">
-								<img class="img-responsive" src="img/56logo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/56logo.png" />
 							</a>
 						</div>
 					</div>
@@ -282,42 +282,42 @@ Ho~　★★★★★★
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.fun.vip" target="_blank" title="风行视频">
-								<img class="img-responsive" src="img/fengxing.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/fengxing.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://movie.ku6.com/" target="_blank" title="酷6视频">
-								<img class="img-responsive" src="img/ku6logo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/ku6logo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://vip.wasu.cn/" target="_blank" title="WASU华数视频">
-								<img class="img-responsive" src="img/wasulogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/wasulogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://video.sina.com.cn/" target="_blank" title="新浪视频">
-								<img class="img-responsive" src="img/sinalogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/sinalogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="https://film.sohu.com/" target="_blank" title="搜狐视频">
-								<img class="img-responsive" src="img/sohulogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/sohulogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.baomihua.com/" target="_blank" title="爆米花">
-								<img class="img-responsive" src="img/baomihualogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/baomihualogo.png" />
 							</a>
 						</div>
 					</div>
@@ -328,42 +328,42 @@ Ho~　★★★★★★
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a target="_blank" title="看看新闻网视频">
-								<img class="img-responsive" src="img/kankannewslogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/kankannewslogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a target="_blank" title="糖豆视频">
-								<img class="img-responsive" src="img/tangdoulogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/tangdoulogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://tv.cctv.com/" target="_blank" title="央视网">
-								<img class="img-responsive" src="img/cntvlogo.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/cntvlogo.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2 ">
 						<div class="logo-lie">
 							<a href="http://www.acfun.cn/" target="_blank" title="Ac弹幕网">
-								<img class="img-responsive" src="img/acfun.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/acfun.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.bilibili.com/" target="_blank" title="哔哩哔哩">
-								<img class="img-responsive" src="img/bilibili.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/bilibili.png" />
 							</a>
 						</div>
 					</div>
 					<div class="col-xs-4 col-sm-2">
 						<div class="logo-lie">
 							<a href="http://www.aipai.com/" target="_blank" title="爱拍原创">
-								<img class="img-responsive" src="img/aipai.png" />
+								<img class="img-responsive" src="http://yiwen.qiniudn.com/img/aipai.png" />
 							</a>
 						</div>
 					</div>

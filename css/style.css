@@ -96,22 +96,22 @@ header .navbar-toggle {
 	color: #fff;
 	background-color: transparent;
 }
-
+/*../img/jingling.png*/
 .logo {
 	display: inline-block;
 	width: 150px;
 	height: 42px;
 	float: left;
 	background-position: -183px 0;
-	background-image: url(../img/jingling.png);
+	background-image: url(http://yiwen.qiniudn.com/img/jingling.png );
 	background-repeat: no-repeat;
 }
 
 
-/*video-box样式*/
+/*video-box样式*/ /*../img/mbj.jpg*/
 
 .video-box {
-	background-image: url(../img/mbj.jpg);
+	background-image: url(http://yiwen.qiniudn.com/img/mbj.jpg );
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -387,9 +387,9 @@ div.url-box .btn-play:hover {
 	.weibo-tit {
 		text-align: center;
 	}
-	/*video-box样式*/
+	/*video-box样式*//*../img/video.jpg*/
 	.video-box {
-		background: url(../img/video.jpg);
+		background: url(http://yiwen.qiniudn.com/img/video.jpg );
 		background-repeat: no-repeat;
 		background-size: cover;
 		width: 100%;
@@ -537,7 +537,7 @@ div.url-box .btn-play:hover {
 		bottom: 15px;
 	}
 	.rollbar-weibo {
-		background: url(../img/ce.png) no-repeat scroll -156px 0px;
+		background: url(http://yiwen.qiniudn.com/img/ce.png ) no-repeat scroll -156px 0px;/*../img/ce.png*/
 	}
 	
 	.rollbar-weibo,
@@ -563,7 +563,7 @@ div.url-box .btn-play:hover {
 	}
 	
 	.rollbar-item {
-		background: url(../img/ce.png) no-repeat scroll -208px 0px;
+		background: url(http://yiwen.qiniudn.com/img/ce.png ) no-repeat scroll -208px 0px;/*../img/ce.png*/
 	}
 	
 	.rollbar-item:hover,
@@ -574,7 +574,7 @@ div.url-box .btn-play:hover {
 	}
 	
 	.rollbar-weix {
-		background: url(../img/ce.png) no-repeat scroll -104px 0px;
+		background: url(http://yiwen.qiniudn.com/img/ce.png ) no-repeat scroll -104px 0px;/*../img/ce.png*/
 	}
 	
 	.rollbar-weix:hover .weixinx {
@@ -594,6 +594,6 @@ div.url-box .btn-play:hover {
 	}
 	
 	.weixinx {
-		background: url(../img/ce.png) no-repeat scroll 0px -52px;
+		background: url(http://yiwen.qiniudn.com/img/ce.png ) no-repeat scroll 0px -52px;/*../img/ce.png*/
 	}
 }
