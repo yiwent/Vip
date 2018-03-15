@@ -15,8 +15,8 @@
 			</div>		
 			<p><?php echo $aik['foot'];?></p>
 			
-			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.gear.host/" ><img style="vertical-align: middle;" src="http://yiwen.qiniudn.com/img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
-			<p>Copyright&nbsp;&copy;&nbsp;2018&nbsp;<a href="http://yiwen.gear.host/" target="_blank" style="color:;">深漂鱼 </a>版权所有|网站运行：<span id="htmer_time" style="color:#888;"></span>
+			<p>管理员邮箱：<?php echo $aik['admin_email'];?>&nbsp; <a class="foot-tt" href="http://yiwen.qiniudn.com/" ><img style="vertical-align: middle;" src="http://yiwen.qiniudn.com/img/beian.png"/><?php echo $aik['icp'];?></a>&nbsp; </p>
+			<p>Copyright&nbsp;&copy;&nbsp;2018&nbsp;<a href="http://yiwen.qiniudn.com/" target="_blank" style="color:;">深漂鱼 </a>版权所有|网站运行：<span id="htmer_time" style="color:#888;"></span>
         <script type="text/javascript" language="javascript">
             function secondToDate(second) {
             if (!second) {
