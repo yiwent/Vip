@@ -16,7 +16,7 @@ function play() {
 		//1,create ajax核心对象：
 		var xhr = getxhr();
 		//2,以post的方式与服务器建立连接；
-		xhr.open("post", "http://yiwen.gearhostpreview.com/data/title.php", true);
+		xhr.open("post", "http://yiwen.gear.host/data/title.php", true);
 		xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		//3,发送一个http请求:
 		xhr.send("titurl=" + rul);
