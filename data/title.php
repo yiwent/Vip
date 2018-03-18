@@ -1,5 +1,7 @@
 <?php
 header('Content-Type:text/html;charset=utf-8');
+header("Access-Control-Allow-Origin: *"); // 允许任意域名发起的跨域请求  
+header('Access-Control-Allow-Headers: X-Requested-With,X_Requested_With'); 
 $url=$_POST['titurl'];
 //$url = 'http://www.beipy.com/';//url链接地址
 echo getTitle($url);
